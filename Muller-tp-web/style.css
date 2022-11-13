@@ -1,0 +1,24 @@
+a{
+    text-decoration: none;
+    color: #000;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 10px 5px;
+    
+}
+div{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 85vh;
+}
+.entity{
+    background: center/60% no-repeat; 
+    background-image: url('https://img.gamerjournalist.com/spai/w_903+q_lossy+ret_img+to_webp/https://cdn.gamerjournalist.com/primary/2022/09/chasing-entity-in-the-backrooms-footage.jpg');
+
+}
+.access2{
+    background: center/65% no-repeat;
+    background-image: url('https://i.ytimg.com/vi/LcOrWB0fp4Y/maxresdefault.jpg');
+
+}
